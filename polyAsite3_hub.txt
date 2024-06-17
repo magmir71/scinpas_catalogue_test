@@ -14,4 +14,4 @@ shortLabel PAS (+) strand
 longLabel PolyA sites on (+) strand
 type bw
 visibility full
-color="4,177,216"
+color red
