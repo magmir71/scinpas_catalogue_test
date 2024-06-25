@@ -1,6 +1,6 @@
 hub UCSCHub
-shortLabel PolyAsite Atlas 3.0
-longLabel PolyAsite Atlas 3.0
+shortLabel TestHub
+longLabel TestHub
 useOneFile on
 email aleksei.mironov@unibas.ch
 descriptionUrl https://raw.githubusercontent.com/magmir71/scinpas_catalogue_test/main/hub_description.html
